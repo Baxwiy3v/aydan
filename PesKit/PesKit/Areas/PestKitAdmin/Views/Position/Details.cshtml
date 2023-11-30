@@ -1,4 +1,4 @@
-﻿@model Department
+﻿@model Position
 
 
 <div class="container">
@@ -8,7 +8,7 @@
 <div class="card-group w-25">
     @foreach (Employee employee in Model.Employees)
     {
-        <div class="card m-1 bg-primary text-white rounded-3">
+        <div class="">
             <img src="~/img//@employee.ImgUrl"
                  alt="@employee.Name" class="card-img-top">
             <div class="card-body">
@@ -22,4 +22,3 @@
         </div>
     }
 </div>
-<a class="btn btn-light fw-bold fs-4" asp-action="Index" asp-controller="Department">Back</a>

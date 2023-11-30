@@ -30,12 +30,12 @@
                     </select>
                     <span asp-validation-for="AuthorId" class="text-danger"></span>
                 </div>
-               @* <div class="form-group">
+                <div class="form-group">
                     <label asp-for="TagIds">Tags</label>
                     <select asp-for="TagIds" asp-items="new SelectList(Model.Tags, nameof(Tag.Id), nameof(Tag.Name))" class="form-control">
                     </select>
-                    <span asp-validation-for="TagIds" class="text-danger"></span>
-                </div>*@
+                    <span asp-validation-for="TagIds" ></span>
+                </div>
                 <div class="form-group">
                     <label asp-for="Photo">Photo</label>
                     <input asp-for="Photo" class="form-control" placeholder="Photo">

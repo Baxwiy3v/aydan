@@ -66,7 +66,7 @@ namespace PesKit.Areas.PestKitAdmin.Controllers
                 ModelState.AddModelError("Photo", "File Not supported");
                 return View(blogVM);
             }
-            if (!blogVM.Photo.ValiDataSize(12))
+            if (!blogVM.Photo.ValiDataSize(10))
             {
                 blogVM.Authors = await _context.Author.ToListAsync();
                 blogVM.Tags = await _context.Tags.ToListAsync();
@@ -107,9 +107,9 @@ namespace PesKit.Areas.PestKitAdmin.Controllers
         public async Task<IActionResult> Update(int id)
         {
             if (id <= 0) { return BadRequest(); }
-            Blog blog = await _context.Blogs.Include(c=>c.Tags).FirstOrDefaultAsync(b => b.Id == id);
-            if (blog == null) 
-                return NotFound(); 
+            Blog blog = await _context.Blogs.Include(c => c.Tags).FirstOrDefaultAsync(b => b.Id == id);
+            if (blog == null)
+                return NotFound();
             UpdateBlogVM blogVM = new UpdateBlogVM
             {
                 Title = blog.Title,
@@ -203,7 +203,7 @@ namespace PesKit.Areas.PestKitAdmin.Controllers
         public async Task<IActionResult> More(int id)
         {
             if (id <= 0) { return BadRequest(); }
-            Blog blog = await _context.Blogs.Include(c => c.Author).Include(c=> c.Tags).ThenInclude(c => c.Tag).FirstOrDefaultAsync(c => c.Id == id);
+            Blog blog = await _context.Blogs.Include(c => c.Author).Include(c => c.Tags).ThenInclude(c => c.Tag).FirstOrDefaultAsync(c => c.Id == id);
             if (blog == null) { return NotFound(); }
             return View(blog);
         }

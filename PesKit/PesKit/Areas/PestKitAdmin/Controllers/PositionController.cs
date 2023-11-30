@@ -87,7 +87,7 @@ namespace PesKit.Areas.PestKitAdmin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        public async Task<IActionResult> More(int id)
+        public async Task<IActionResult> Details(int id)
         {
             if (id <= 0) return BadRequest();
             Position position = await _context.Positions

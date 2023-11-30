@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.Build.Evaluation;
+using Microsoft.EntityFrameworkCore;
 using PesKit.Models;
 
 namespace PesKit.DAL
@@ -15,5 +16,7 @@ namespace PesKit.DAL
         public DbSet<Slide> Slides { get; set; }
         public DbSet<Tag> Tags { get; set; }
         public DbSet<BlogTag> BlogTags { get; set; }
+
+    
     }
 }

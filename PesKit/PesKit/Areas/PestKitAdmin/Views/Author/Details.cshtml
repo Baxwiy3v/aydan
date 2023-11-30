@@ -8,7 +8,7 @@
 <div class="card-group w-25">
     @foreach (Blog blog in Model.Blogs)
     {
-        <div class="card m-1 bg-primary text-white rounded-3">
+        <div class="">
             <img src="~/img//@blog.ImgUrl"
                  alt="@blog.Title">
             <div class="card-body">
@@ -20,4 +20,4 @@
         </div>
     }
 </div>
-<a class="btn btn-light fw-bold fs-4" asp-action="Index" asp-controller="Author">Back</a>
+

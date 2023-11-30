@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DNlnZNJxtzEYmV3fJSDl+3Rz6yBt52v9UZZZ2Ox2toA=",
+  "Hash": "lK4eR70yM3V6irv5I6Ua4l5ZvogXx9qLvJRtEQKkp9o=",
   "Source": "PesKit",
   "BasePath": "_content/PesKit",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PesKit\\wwwroot",
       "Source": "PesKit",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\css\\maps\\style.css.map",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/css/maps/style.css.map",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\maps\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\css\\style.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\css\\style.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/css/style.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\.DS_Store",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/.DS_Store",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\.DS_Store",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/.DS_Store",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Black.eot",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Black.ttf",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Black.woff",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Black.woff2",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Bold.eot",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Bold.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Bold.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Bold.woff2",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Light.eot",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Light.ttf",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Light.woff",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Light.woff2",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Medium.eot",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Medium.ttf",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Medium.woff",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Medium.woff2",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Regular.eot",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Regular.ttf",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Regular.woff",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/fonts/Roboto/Roboto-Regular.woff2",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\.DS_Store",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/.DS_Store",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\auth\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\auth\\.DS_Store",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/auth/.DS_Store",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/auth/lockscreen-bg.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/auth/login-bg.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\login-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/auth/register-bg.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\register-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\.DS_Store",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/.DS_Store",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face1.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face1.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face10.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face10.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face10.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face11.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face11.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face11.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face12.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face12.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face12.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face13.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face13.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face13.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face14.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face14.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face14.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face15.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face15.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face15.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face16.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face16.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face16.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face17.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face17.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face17.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face18.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face18.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face18.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face19.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face19.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face19.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face2.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face2.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face20.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face20.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face20.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face21.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face21.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face21.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face22.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face22.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face22.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face23.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face23.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face23.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face24.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face24.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face24.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face25.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face25.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face25.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face26.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face26.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face26.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face27.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face27.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face27.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face3.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face3.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face4.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face4.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face5.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face5.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face6.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face6.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face7.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face7.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face8.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face8.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\faces\\face9.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/faces/face9.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\favicon.ico",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\favicon.ico",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/favicon.ico",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\favicon.png",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\favicon.png",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/favicon.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\GiGuts.png",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\GiGuts.png",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/GiGuts.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\GiGuts.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\logo.svg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\logo.svg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/logo.svg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\images\\logo-mini.svg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\images\\logo-mini.svg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/images/logo-mini.svg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\logo-mini.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\.DS_Store",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/.DS_Store",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\chart.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\chart.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/chart.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\Chart.min.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\Chart.min.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/Chart.min.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\dashboard.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\dashboard.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/dashboard.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\data-table.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\data-table.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/data-table.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\data-table.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\documentation.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\documentation.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/documentation.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\documentation.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\file-upload.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\file-upload.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/file-upload.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\file-upload.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\hoverable-collapse.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/hoverable-collapse.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\hoverable-collapse.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\jquery.cookie.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/jquery.cookie.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\jquery.cookie.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\jquery.dataTables.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/jquery.dataTables.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\off-canvas.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\off-canvas.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/off-canvas.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\off-canvas.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\tabs.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\tabs.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/tabs.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\tabs.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\js\\template.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\js\\template.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/js/template.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\template.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\.DS_Store",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\.DS_Store",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/.DS_Store",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/base/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/base/vendor.bundle.base.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/base/vendor.bundle.base.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/chart.js/Chart.min.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/datatables.net/jquery.dataTables.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/datatables.net-bs4/dataTables.bootstrap4.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/datatables.net-bs4/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/mdi/css/materialdesignicons.min.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/mdi/css/materialdesignicons.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.eot",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.woff",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\css\\style.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\02c8bcb7-b724-49cc-8221-76598db4693c.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\02c8bcb7-b724-49cc-8221-76598db4693c.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/02c8bcb7-b724-49cc-8221-76598db4693c.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\img\\02c8bcb7-b724-49cc-8221-76598db4693c.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\0a7fb5fe-8195-4485-b982-939d18a8d78d.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\0a7fb5fe-8195-4485-b982-939d18a8d78d.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/0a7fb5fe-8195-4485-b982-939d18a8d78d.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\img\\0a7fb5fe-8195-4485-b982-939d18a8d78d.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\0ad68c10-5ea9-4b00-8eda-cceb4dbdf6e5.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\0ad68c10-5ea9-4b00-8eda-cceb4dbdf6e5.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/0ad68c10-5ea9-4b00-8eda-cceb4dbdf6e5.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,27 @@
       "OriginalItemSpec": "wwwroot\\img\\0ad68c10-5ea9-4b00-8eda-cceb4dbdf6e5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\104529b5-4426-4d51-abfb-9a8afef5dcae.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\0dd1e02e-a541-4995-a027-88b5476ae976.webp",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/0dd1e02e-a541-4995-a027-88b5476ae976.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\0dd1e02e-a541-4995-a027-88b5476ae976.webp"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\104529b5-4426-4d51-abfb-9a8afef5dcae.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/104529b5-4426-4d51-abfb-9a8afef5dcae.jpg",
       "AssetKind": "All",
@@ -1649,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\img\\104529b5-4426-4d51-abfb-9a8afef5dcae.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\1306445a-8072-49ac-83b9-de4c893837c3.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\1306445a-8072-49ac-83b9-de4c893837c3.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/1306445a-8072-49ac-83b9-de4c893837c3.jpg",
       "AssetKind": "All",
@@ -1666,10 +1683,27 @@
       "OriginalItemSpec": "wwwroot\\img\\1306445a-8072-49ac-83b9-de4c893837c3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\28a9e855-4aaa-4d2c-b355-c9d9e3b50655.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\201d278c-2ba6-4f28-afe4-fd5c7722b392.png",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/201d278c-2ba6-4f28-afe4-fd5c7722b392.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\201d278c-2ba6-4f28-afe4-fd5c7722b392.png"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\28a9e855-4aaa-4d2c-b355-c9d9e3b50655.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/28a9e855-4aaa-4d2c-b355-c9d9e3b50655.jpg",
       "AssetKind": "All",
@@ -1683,10 +1717,27 @@
       "OriginalItemSpec": "wwwroot\\img\\28a9e855-4aaa-4d2c-b355-c9d9e3b50655.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\2adc3e8c-a9ff-4c98-aadc-6e89e7edfc0c.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\2a91f780-baec-4118-ac20-b42e49b8be44.webp",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/2a91f780-baec-4118-ac20-b42e49b8be44.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\2a91f780-baec-4118-ac20-b42e49b8be44.webp"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\2adc3e8c-a9ff-4c98-aadc-6e89e7edfc0c.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/2adc3e8c-a9ff-4c98-aadc-6e89e7edfc0c.jpg",
       "AssetKind": "All",
@@ -1700,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\img\\2adc3e8c-a9ff-4c98-aadc-6e89e7edfc0c.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\45c9f7aa-0325-46a7-8191-3befcedeeaff.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\45c9f7aa-0325-46a7-8191-3befcedeeaff.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/45c9f7aa-0325-46a7-8191-3befcedeeaff.jpg",
       "AssetKind": "All",
@@ -1717,10 +1768,27 @@
       "OriginalItemSpec": "wwwroot\\img\\45c9f7aa-0325-46a7-8191-3befcedeeaff.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\46bb7c2e-a2e7-4e23-b6d2-e77c5f904ef8.jfif",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\46999a86-dfe9-4621-b783-56f172720ac4.jfif",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/46999a86-dfe9-4621-b783-56f172720ac4.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\46999a86-dfe9-4621-b783-56f172720ac4.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\46bb7c2e-a2e7-4e23-b6d2-e77c5f904ef8.jfif",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/46bb7c2e-a2e7-4e23-b6d2-e77c5f904ef8.jfif",
       "AssetKind": "All",
@@ -1734,10 +1802,27 @@
       "OriginalItemSpec": "wwwroot\\img\\46bb7c2e-a2e7-4e23-b6d2-e77c5f904ef8.jfif"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\53606bbd-7fe0-40f0-a9cb-2aef134bfe30.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\531f6a29-c14b-4fb1-8055-5143339d0d71.webp",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/531f6a29-c14b-4fb1-8055-5143339d0d71.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\531f6a29-c14b-4fb1-8055-5143339d0d71.webp"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\53606bbd-7fe0-40f0-a9cb-2aef134bfe30.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/53606bbd-7fe0-40f0-a9cb-2aef134bfe30.jpg",
       "AssetKind": "All",
@@ -1751,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\img\\53606bbd-7fe0-40f0-a9cb-2aef134bfe30.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\5863622d-9902-460c-9c8f-65159d74cf5d.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\5863622d-9902-460c-9c8f-65159d74cf5d.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/5863622d-9902-460c-9c8f-65159d74cf5d.jpg",
       "AssetKind": "All",
@@ -1768,10 +1853,27 @@
       "OriginalItemSpec": "wwwroot\\img\\5863622d-9902-460c-9c8f-65159d74cf5d.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\66c18274-dfd8-4f66-a8e1-2166a3edaf52.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\66b85c43-5c80-4985-8690-7a719abc5ca1.webp",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/66b85c43-5c80-4985-8690-7a719abc5ca1.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\66b85c43-5c80-4985-8690-7a719abc5ca1.webp"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\66c18274-dfd8-4f66-a8e1-2166a3edaf52.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/66c18274-dfd8-4f66-a8e1-2166a3edaf52.jpg",
       "AssetKind": "All",
@@ -1785,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\img\\66c18274-dfd8-4f66-a8e1-2166a3edaf52.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\68ea8e3f-f5d6-465c-a89e-f12bf818444f.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\68ea8e3f-f5d6-465c-a89e-f12bf818444f.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/68ea8e3f-f5d6-465c-a89e-f12bf818444f.jpg",
       "AssetKind": "All",
@@ -1802,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\img\\68ea8e3f-f5d6-465c-a89e-f12bf818444f.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\6fb80afe-4ca2-4d94-a447-ea3013816d85.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\6fb80afe-4ca2-4d94-a447-ea3013816d85.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/6fb80afe-4ca2-4d94-a447-ea3013816d85.jpg",
       "AssetKind": "All",
@@ -1819,10 +1921,44 @@
       "OriginalItemSpec": "wwwroot\\img\\6fb80afe-4ca2-4d94-a447-ea3013816d85.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\75affbaa-d81a-4332-8973-94aff2fceeb2.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\72a2020a-c95b-476b-8de4-6ac98b096b92.png",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/72a2020a-c95b-476b-8de4-6ac98b096b92.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\72a2020a-c95b-476b-8de4-6ac98b096b92.png"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\756defb1-88de-4159-bdd7-d9e140ac522f.webp",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/756defb1-88de-4159-bdd7-d9e140ac522f.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\756defb1-88de-4159-bdd7-d9e140ac522f.webp"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\75affbaa-d81a-4332-8973-94aff2fceeb2.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/75affbaa-d81a-4332-8973-94aff2fceeb2.jpg",
       "AssetKind": "All",
@@ -1836,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\img\\75affbaa-d81a-4332-8973-94aff2fceeb2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\76134607-5944-431e-8143-e85b9e8c5995.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\76134607-5944-431e-8143-e85b9e8c5995.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/76134607-5944-431e-8143-e85b9e8c5995.jpg",
       "AssetKind": "All",
@@ -1853,10 +1989,27 @@
       "OriginalItemSpec": "wwwroot\\img\\76134607-5944-431e-8143-e85b9e8c5995.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\815356ca-6582-4657-ba35-793e011406af.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\7ce7a9a0-08e7-4eb7-a75b-19c6d5b0d404.jfif",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/7ce7a9a0-08e7-4eb7-a75b-19c6d5b0d404.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\7ce7a9a0-08e7-4eb7-a75b-19c6d5b0d404.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\815356ca-6582-4657-ba35-793e011406af.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/815356ca-6582-4657-ba35-793e011406af.jpg",
       "AssetKind": "All",
@@ -1870,10 +2023,27 @@
       "OriginalItemSpec": "wwwroot\\img\\815356ca-6582-4657-ba35-793e011406af.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\8722d346-3626-4c7a-955e-06e940bef8c3.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\85625e5e-03bd-4575-8b5d-ba8c3c98a85e.jfif",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/85625e5e-03bd-4575-8b5d-ba8c3c98a85e.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\85625e5e-03bd-4575-8b5d-ba8c3c98a85e.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\8722d346-3626-4c7a-955e-06e940bef8c3.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/8722d346-3626-4c7a-955e-06e940bef8c3.jpg",
       "AssetKind": "All",
@@ -1887,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\img\\8722d346-3626-4c7a-955e-06e940bef8c3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\8b0c2ffb-5ab7-4d29-905e-8d5e7f24cec9.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\8b0c2ffb-5ab7-4d29-905e-8d5e7f24cec9.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/8b0c2ffb-5ab7-4d29-905e-8d5e7f24cec9.jpg",
       "AssetKind": "All",
@@ -1904,10 +2074,27 @@
       "OriginalItemSpec": "wwwroot\\img\\8b0c2ffb-5ab7-4d29-905e-8d5e7f24cec9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\95ae4473-5d6d-4df8-b903-e721a9d77ec7.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\8ff8cbee-2494-4452-aae8-747732ab6e6b.jfif",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/8ff8cbee-2494-4452-aae8-747732ab6e6b.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\8ff8cbee-2494-4452-aae8-747732ab6e6b.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\95ae4473-5d6d-4df8-b903-e721a9d77ec7.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/95ae4473-5d6d-4df8-b903-e721a9d77ec7.jpg",
       "AssetKind": "All",
@@ -1921,10 +2108,27 @@
       "OriginalItemSpec": "wwwroot\\img\\95ae4473-5d6d-4df8-b903-e721a9d77ec7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\a6ae6f5f-c3d1-4a6d-a221-5a715f9b73a0.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\9cd807a9-70a6-49aa-bf14-81f1e589ae5c.jfif",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/9cd807a9-70a6-49aa-bf14-81f1e589ae5c.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\9cd807a9-70a6-49aa-bf14-81f1e589ae5c.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\a6ae6f5f-c3d1-4a6d-a221-5a715f9b73a0.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/a6ae6f5f-c3d1-4a6d-a221-5a715f9b73a0.jpg",
       "AssetKind": "All",
@@ -1938,10 +2142,27 @@
       "OriginalItemSpec": "wwwroot\\img\\a6ae6f5f-c3d1-4a6d-a221-5a715f9b73a0.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\a8a18c33-50c5-418d-9b99-8c65b65ed671.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\a7ea7fec-a42c-410c-a719-d72202df9079.jfif",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/a7ea7fec-a42c-410c-a719-d72202df9079.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\a7ea7fec-a42c-410c-a719-d72202df9079.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\a8a18c33-50c5-418d-9b99-8c65b65ed671.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/a8a18c33-50c5-418d-9b99-8c65b65ed671.jpg",
       "AssetKind": "All",
@@ -1955,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\a8a18c33-50c5-418d-9b99-8c65b65ed671.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\abc6eecb-f750-4346-8b80-7149a38c71bd.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\abc6eecb-f750-4346-8b80-7149a38c71bd.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/abc6eecb-f750-4346-8b80-7149a38c71bd.jpg",
       "AssetKind": "All",
@@ -1972,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\img\\abc6eecb-f750-4346-8b80-7149a38c71bd.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\about-img.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\about-img.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/about-img.jpg",
       "AssetKind": "All",
@@ -1989,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\action.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\action.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/action.jpg",
       "AssetKind": "All",
@@ -2006,10 +2227,27 @@
       "OriginalItemSpec": "wwwroot\\img\\action.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\bba4306c-acc0-4deb-9f98-d92c0c0d1729.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\b55678b4-50ad-488a-9b88-033b8b57f458.jfif",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/b55678b4-50ad-488a-9b88-033b8b57f458.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\b55678b4-50ad-488a-9b88-033b8b57f458.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\bba4306c-acc0-4deb-9f98-d92c0c0d1729.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/bba4306c-acc0-4deb-9f98-d92c0c0d1729.jpg",
       "AssetKind": "All",
@@ -2023,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bba4306c-acc0-4deb-9f98-d92c0c0d1729.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\blog-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\blog-1.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/blog-1.jpg",
       "AssetKind": "All",
@@ -2040,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\blog-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\blog-2.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/blog-2.jpg",
       "AssetKind": "All",
@@ -2057,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\blog-3.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\blog-3.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/blog-3.jpg",
       "AssetKind": "All",
@@ -2074,10 +2312,44 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\c283e921-ea36-43e4-97f2-b695dcbd9e78.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\c0777d39-36a8-468e-be09-69417413b076.webp",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/c0777d39-36a8-468e-be09-69417413b076.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\c0777d39-36a8-468e-be09-69417413b076.webp"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\c1c761de-66d3-43ae-9d78-6819fecea52b.webp",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/c1c761de-66d3-43ae-9d78-6819fecea52b.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\c1c761de-66d3-43ae-9d78-6819fecea52b.webp"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\c283e921-ea36-43e4-97f2-b695dcbd9e78.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/c283e921-ea36-43e4-97f2-b695dcbd9e78.jpg",
       "AssetKind": "All",
@@ -2091,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\img\\c283e921-ea36-43e4-97f2-b695dcbd9e78.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\carousel-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\carousel-1.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/carousel-1.jpg",
       "AssetKind": "All",
@@ -2108,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\carousel-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\carousel-2.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/carousel-2.jpg",
       "AssetKind": "All",
@@ -2125,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\cebe4b2e-b9d1-44d2-bef3-ca9c4ba1c61a.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\cebe4b2e-b9d1-44d2-bef3-ca9c4ba1c61a.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/cebe4b2e-b9d1-44d2-bef3-ca9c4ba1c61a.jpg",
       "AssetKind": "All",
@@ -2142,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cebe4b2e-b9d1-44d2-bef3-ca9c4ba1c61a.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\cf4eef10-542b-45af-b67f-0d1d3a86f6de.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\cf4eef10-542b-45af-b67f-0d1d3a86f6de.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/cf4eef10-542b-45af-b67f-0d1d3a86f6de.jpg",
       "AssetKind": "All",
@@ -2159,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cf4eef10-542b-45af-b67f-0d1d3a86f6de.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\d07dbe95-7d74-4d8e-91a8-8ae0a5829efe.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\d07dbe95-7d74-4d8e-91a8-8ae0a5829efe.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/d07dbe95-7d74-4d8e-91a8-8ae0a5829efe.jpg",
       "AssetKind": "All",
@@ -2176,10 +2448,27 @@
       "OriginalItemSpec": "wwwroot\\img\\d07dbe95-7d74-4d8e-91a8-8ae0a5829efe.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\d43ad7a2-1e91-44f9-9709-d1b6ea19b1ea.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\d3d20ec1-f908-4f76-95d8-30dbfa53eb56.png",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/d3d20ec1-f908-4f76-95d8-30dbfa53eb56.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\d3d20ec1-f908-4f76-95d8-30dbfa53eb56.png"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\d43ad7a2-1e91-44f9-9709-d1b6ea19b1ea.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/d43ad7a2-1e91-44f9-9709-d1b6ea19b1ea.jpg",
       "AssetKind": "All",
@@ -2193,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\img\\d43ad7a2-1e91-44f9-9709-d1b6ea19b1ea.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\ddce31c5-4130-4277-a774-c21a74ea92c7.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\ddce31c5-4130-4277-a774-c21a74ea92c7.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/ddce31c5-4130-4277-a774-c21a74ea92c7.jpg",
       "AssetKind": "All",
@@ -2210,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ddce31c5-4130-4277-a774-c21a74ea92c7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\dec46877-8563-4292-b8e8-691f54c8831d.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\dec46877-8563-4292-b8e8-691f54c8831d.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/dec46877-8563-4292-b8e8-691f54c8831d.jpg",
       "AssetKind": "All",
@@ -2227,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\img\\dec46877-8563-4292-b8e8-691f54c8831d.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\df4bcfb0-40c8-4d42-b7b0-43a6c986af13.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\df4bcfb0-40c8-4d42-b7b0-43a6c986af13.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/df4bcfb0-40c8-4d42-b7b0-43a6c986af13.jpg",
       "AssetKind": "All",
@@ -2244,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\img\\df4bcfb0-40c8-4d42-b7b0-43a6c986af13.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\e398176d-138a-4cfc-8a28-caf3c5609030.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\e398176d-138a-4cfc-8a28-caf3c5609030.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/e398176d-138a-4cfc-8a28-caf3c5609030.jpg",
       "AssetKind": "All",
@@ -2261,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\img\\e398176d-138a-4cfc-8a28-caf3c5609030.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\e49812a8-ff5c-44c2-a577-fa27ce802d62.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\e49812a8-ff5c-44c2-a577-fa27ce802d62.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/e49812a8-ff5c-44c2-a577-fa27ce802d62.jpg",
       "AssetKind": "All",
@@ -2278,10 +2567,61 @@
       "OriginalItemSpec": "wwwroot\\img\\e49812a8-ff5c-44c2-a577-fa27ce802d62.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\efa96853-8181-48e4-97ec-8b50cc6e3610.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\e94dbe8b-d429-4c2c-925e-6510c7ba5937.webp",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/e94dbe8b-d429-4c2c-925e-6510c7ba5937.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\e94dbe8b-d429-4c2c-925e-6510c7ba5937.webp"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\ecfb888b-1ddc-4d7e-be8e-8dccc256b96b.webp",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/ecfb888b-1ddc-4d7e-be8e-8dccc256b96b.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ecfb888b-1ddc-4d7e-be8e-8dccc256b96b.webp"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\ef7fe1cc-ae2c-4afc-8e2b-7e50ef901334.jfif",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/ef7fe1cc-ae2c-4afc-8e2b-7e50ef901334.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ef7fe1cc-ae2c-4afc-8e2b-7e50ef901334.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\efa96853-8181-48e4-97ec-8b50cc6e3610.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/efa96853-8181-48e4-97ec-8b50cc6e3610.jpg",
       "AssetKind": "All",
@@ -2295,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\img\\efa96853-8181-48e4-97ec-8b50cc6e3610.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\f019628b-de18-4226-ae11-60e2d2154cfb.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\f019628b-de18-4226-ae11-60e2d2154cfb.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/f019628b-de18-4226-ae11-60e2d2154cfb.jpg",
       "AssetKind": "All",
@@ -2312,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\img\\f019628b-de18-4226-ae11-60e2d2154cfb.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\f22af263-1f50-4295-8a21-d4fd27a48c4c.webp",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\f22af263-1f50-4295-8a21-d4fd27a48c4c.webp",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/f22af263-1f50-4295-8a21-d4fd27a48c4c.webp",
       "AssetKind": "All",
@@ -2329,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\img\\f22af263-1f50-4295-8a21-d4fd27a48c4c.webp"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\f6bb3e5e-9b5f-4688-ac21-f047e2b55204.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\f6bb3e5e-9b5f-4688-ac21-f047e2b55204.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/f6bb3e5e-9b5f-4688-ac21-f047e2b55204.jpg",
       "AssetKind": "All",
@@ -2346,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\img\\f6bb3e5e-9b5f-4688-ac21-f047e2b55204.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\f83b6dca-dbfb-4816-b2f3-56464f8f8988.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\f83b6dca-dbfb-4816-b2f3-56464f8f8988.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/f83b6dca-dbfb-4816-b2f3-56464f8f8988.jpg",
       "AssetKind": "All",
@@ -2363,10 +2703,27 @@
       "OriginalItemSpec": "wwwroot\\img\\f83b6dca-dbfb-4816-b2f3-56464f8f8988.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\project-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\fe1919b2-5dbf-48b3-a5fa-334027a2f838.jfif",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
+      "BasePath": "_content/PesKit",
+      "RelativePath": "img/fe1919b2-5dbf-48b3-a5fa-334027a2f838.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fe1919b2-5dbf-48b3-a5fa-334027a2f838.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\project-1.jpg",
+      "SourceId": "PesKit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/project-1.jpg",
       "AssetKind": "All",
@@ -2380,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\img\\project-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\project-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\project-2.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/project-2.jpg",
       "AssetKind": "All",
@@ -2397,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\img\\project-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\project-3.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\project-3.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/project-3.jpg",
       "AssetKind": "All",
@@ -2414,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\img\\project-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\project-4.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\project-4.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/project-4.jpg",
       "AssetKind": "All",
@@ -2431,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\img\\project-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\project-5.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\project-5.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/project-5.jpg",
       "AssetKind": "All",
@@ -2448,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\img\\project-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\project-6.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\project-6.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/project-6.jpg",
       "AssetKind": "All",
@@ -2465,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\img\\project-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\team-1..jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\team-1..jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/team-1..jpg",
       "AssetKind": "All",
@@ -2482,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-1..jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\team-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\team-2.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/team-2.jpg",
       "AssetKind": "All",
@@ -2499,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\team-3.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\team-3.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/team-3.jpg",
       "AssetKind": "All",
@@ -2516,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\team-4.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\team-4.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/team-4.jpg",
       "AssetKind": "All",
@@ -2533,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\testimonial-1.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\testimonial-1.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/testimonial-1.jpg",
       "AssetKind": "All",
@@ -2550,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\testimonial-2.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\testimonial-2.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/testimonial-2.jpg",
       "AssetKind": "All",
@@ -2567,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\testimonial-3.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\testimonial-3.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/testimonial-3.jpg",
       "AssetKind": "All",
@@ -2584,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\img\\testimonial-4.jpg",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\img\\testimonial-4.jpg",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "img/testimonial-4.jpg",
       "AssetKind": "All",
@@ -2601,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\js\\main.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -2618,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\animate\\animate.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\animate\\animate.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/animate/animate.css",
       "AssetKind": "All",
@@ -2635,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\animate\\animate.min.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\animate\\animate.min.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/animate/animate.min.css",
       "AssetKind": "All",
@@ -2652,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\easing\\easing.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\easing\\easing.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/easing/easing.js",
       "AssetKind": "All",
@@ -2669,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\easing\\easing.min.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\easing\\easing.min.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -2686,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -2703,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -2720,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -2737,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -2754,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -2771,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -2788,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -2805,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -2822,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -2839,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -2856,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -2873,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\waypoints\\links.php",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\waypoints\\links.php",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/waypoints/links.php",
       "AssetKind": "All",
@@ -2890,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -2907,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\wow\\wow.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\wow\\wow.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/wow/wow.js",
       "AssetKind": "All",
@@ -2924,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\lib\\wow\\wow.min.js",
+      "Identity": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\lib\\wow\\wow.min.js",
       "SourceId": "PesKit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\PestKitBCK\\PesKit\\PesKit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\wwwroot\\",
       "BasePath": "_content/PesKit",
       "RelativePath": "lib/wow/wow.min.js",
       "AssetKind": "All",

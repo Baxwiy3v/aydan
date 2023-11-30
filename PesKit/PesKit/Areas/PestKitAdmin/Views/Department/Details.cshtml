@@ -1,4 +1,4 @@
-﻿@model Position
+﻿@model Department
 
 
 <div class="container">
@@ -8,18 +8,17 @@
 <div class="card-group w-25">
     @foreach (Employee employee in Model.Employees)
     {
-        <div class="card m-1 bg-primary text-white rounded-3">
+        <div class="">
             <img src="~/img//@employee.ImgUrl"
                  alt="@employee.Name" class="card-img-top">
             <div class="card-body">
                 <h5 class="card-title text-white">Name: @employee.Name @employee.Surname</h5>
-                <p class="card-text">Position: @employee.Position.Name</p>
-                <p class="card-text">Instagram Link: @employee.InstLink @employee.FaceLink @employee.LinkedLink</p>
-                <p class="card-text">FaceBook Link: @employee.FaceLink @employee.LinkedLink</p>
+                <p class="card-text">Instagram Link: @employee.InstLink</p>
+                <p class="card-text">FaceBook Link: @employee.FaceLink</p>
                 <p class="card-text">Linked-In Link: @employee.LinkedLink</p>
                 <p class="card-text">Twitter Link: @employee.TwitLink</p>
             </div>
         </div>
     }
 </div>
-<a class="btn btn-light fw-bold fs-4" asp-action="Index" asp-controller="Position">Back</a>
+
