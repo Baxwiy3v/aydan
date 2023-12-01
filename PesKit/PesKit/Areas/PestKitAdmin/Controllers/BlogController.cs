@@ -200,7 +200,7 @@ namespace PesKit.Areas.PestKitAdmin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        public async Task<IActionResult> More(int id)
+        public async Task<IActionResult> Details(int id)
         {
             if (id <= 0) { return BadRequest(); }
             Blog blog = await _context.Blogs.Include(c => c.Author).Include(c => c.Tags).ThenInclude(c => c.Tag).FirstOrDefaultAsync(c => c.Id == id);

@@ -10692,11 +10692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\PesKit.csproj",
+      "projectUniqueName": "C:\\Users\\ca.r214.16\\Desktop\\Aqil\\PesKit\\PesKit\\PesKit.csproj",
       "projectName": "PesKit",
-      "projectPath": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\PesKit.csproj",
+      "projectPath": "C:\\Users\\ca.r214.16\\Desktop\\Aqil\\PesKit\\PesKit\\PesKit.csproj",
       "packagesPath": "C:\\Users\\ca.r214.16\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ca.r214.16\\Desktop\\aydan\\PesKit\\PesKit\\obj\\",
+      "outputPath": "C:\\Users\\ca.r214.16\\Desktop\\Aqil\\PesKit\\PesKit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ca.r214.16\\AppData\\Roaming\\NuGet\\NuGet.Config",
